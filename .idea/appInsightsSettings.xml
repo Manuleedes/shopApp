@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.lidigu.shopapp" />
+                  <option name="mobileSdkAppId" value="1:580741221392:android:4da370264ed9f2ba9c4e95" />
+                  <option name="projectId" value="shopapp-26a5d" />
+                  <option name="projectNumber" value="580741221392" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

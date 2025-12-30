@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580741221392",
+    "project_id": "shopapp-26a5d",
+    "storage_bucket": "shopapp-26a5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580741221392:android:4da370264ed9f2ba9c4e95",
+        "android_client_info": {
+          "package_name": "com.lidigu.shopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5NkRHZx9nQjPsgEkS2xK0tFIetruC2cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
